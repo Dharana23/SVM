@@ -1,1 +1,2 @@
-# Cancer prediction using Support Vector Machine and one other project 
+# Support Vector Machine
+
